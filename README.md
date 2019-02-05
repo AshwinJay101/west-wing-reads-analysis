@@ -7,6 +7,21 @@ Contributors:
 
 ## About the Data
 
+![screenshot 2019-02-05 at 1 46 05 am](https://user-images.githubusercontent.com/16842872/52257282-364c3b00-28e8-11e9-8730-2c20b2a1716b.png)
+Courtesy: [Tow Center of Digital Journalism](https://towcenter.columbia.edu), Columbia University 
+
+The data for this project was scraped over a period of 12 months starting in `June 2017` till `August 2018` from `https://www.whitehouse.gov/westwingreads/`. The following attributes were made available :
+- `article link`
+- `publisher`
+- `author`
+- `publshing date`
+- `meta keywords`
+- `entites`
+- `extracted keywords`
+
+## Motivation and Project Objective
+
+
 ## Data Visualistion
 
 > Fig 1. : Delay b/w publication and press releases
@@ -43,5 +58,7 @@ Contributors:
 ## Results and Future Scope
 
 - Quantitative 
-
+  - Log Loss Error and Accuracy
+  - ROC and Confusion Matrix
 - Qualitative
+  - Interesting Topics Learnt
