@@ -19,7 +19,7 @@ The data for this project was scraped over a period of 12 months starting in `Ju
 - `entites`
 - `extracted keywords`
 
-Note: The original data file is confidential in nature, and has thus not been added to the repository. 
+**Note**: The original data file is confidential in nature, and has thus not been added to the repository. 
 
 ## Motivation and Project Objective
 
